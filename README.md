@@ -46,9 +46,6 @@ Hi! I'm **Nikhil Mukheja**, a passionate Web Developer skilled in building full-
 
 ---
 
-## 📷 Screenshots
-
-> Add screenshots of your projects inside `assets/screenshots/` and reference them here for better presentation.
 
 ---
 
